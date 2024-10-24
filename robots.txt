@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ruweduki.github.io/sitemap/sitemap_index.ruweduki
+Sitemap: https://ruweduki.github.io/pCK/sitemap_index.ruweduki
+Sitemap: https://ruweduki.github.io/JaV/sitemap_index.ruweduki
+Sitemap: https://ruweduki.github.io/ZpP/sitemap_index.ruweduki
+Sitemap: https://ruweduki.github.io/Jkr/sitemap_index.ruweduki
+Sitemap: https://ruweduki.github.io/aCn/sitemap_index.ruweduki
+Sitemap: https://ruweduki.github.io/AEx/sitemap_index.ruweduki
+Sitemap: https://ruweduki.github.io/MRY/sitemap_index.ruweduki
+Sitemap: https://ruweduki.github.io/xtG/sitemap_index.ruweduki
+Sitemap: https://ruweduki.github.io/Kgx/sitemap_index.ruweduki
+Sitemap: https://ruweduki.github.io/WOx/sitemap_index.ruweduki
+Sitemap: https://ruweduki.github.io/CfN/sitemap_index.ruweduki
+Sitemap: https://ruweduki.github.io/ESI/sitemap_index.ruweduki
+Sitemap: https://ruweduki.github.io/MoN/sitemap_index.ruweduki
+Sitemap: https://ruweduki.github.io/GDQ/sitemap_index.ruweduki
+Sitemap: https://ruweduki.github.io/LGH/sitemap_index.ruweduki
+Sitemap: https://ruweduki.github.io/gbV/sitemap_index.ruweduki
+Sitemap: https://ruweduki.github.io/KPV/sitemap_index.ruweduki
+Sitemap: https://ruweduki.github.io/WKi/sitemap_index.ruweduki
+Sitemap: https://ruweduki.github.io/qwH/sitemap_index.ruweduki
+Sitemap: https://ruweduki.github.io/nCA/sitemap_index.ruweduki
